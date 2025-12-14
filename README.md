@@ -1,6 +1,6 @@
 ﻿# Console Task Manager
 
-# Console Task Manager
+
 
 A simple **console-based Task Manager application** written in Java.  
 This project allows users to manage tasks through a command-line interface using a clean and understandable structure.
@@ -31,3 +31,4 @@ This project allows users to manage tasks through a command-line interface using
 1. Clone the repository:
    ```bash
    git clone https://github.com/faridkharimli05/TaskManagerApp.git
+
